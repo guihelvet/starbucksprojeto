@@ -207,7 +207,7 @@ span:hover {
 }
 .area3--content {
     padding: 250px 80px;
-    background-image: url('..images/bg2.jpg');
+    background-image: url('../images/bg2.jpg');
     background-size: cover;
     background-position: left;
 }
@@ -216,7 +216,7 @@ span:hover {
     line-height: 25px;
 }
 .area3--img1 {
-    background-image: url('..images/f5.jpg');
+    background-image: url('../images/f5.jpg');
     background-size: cover;
     background-position: center;
 }
@@ -233,11 +233,11 @@ span:hover {
     line-height: 25px;
 }
 .area4--img1 {
-    background-image: url('..images/bg3.jpg');
+    background-image: url('../images/bg3.jpg');
     background-position: left;
 }
 .area5 {
-    background-image: url('..images/bg4.jpg');
+    background-image: url('../images/bg4.jpg');
     background-size: cover;
     background-position: center;
     height: 630px;
